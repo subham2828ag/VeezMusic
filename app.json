@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/levina-lab/veezmusic",
+    "repository": "https://github.com/subham2828ag/veezmusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
